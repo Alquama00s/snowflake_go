@@ -1,9 +1,10 @@
-# snowflake_go
+# Snowflake ID Generator in Go
 
+This project implements a **Snowflake ID** generator in Go, inspired by Twitter's Snowflake algorithm.
 
-## Roadmap
-- think of unique machine id that requires no input can be platform dependent
-- implement
+## Features
 
-## bugs 
-- sleep duration calculation in nextId function
+- Configurable bit lengths
+- Generates unique 64-bit IDs
+- Configurable machine ID
+- Simple and efficient implementation
